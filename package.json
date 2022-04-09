@@ -18,7 +18,7 @@
     "date-fns": "^2.14.0",
     "expo": "~36.0.0",
     "expo-linear-gradient": "~8.0.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "react": "~16.9.0",
     "react-addons-update": "^15.6.2",
     "react-dom": "~16.9.0",
